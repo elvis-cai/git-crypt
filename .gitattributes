@@ -1,2 +1,3 @@
 a filter=git-crypt diff=git-crypt
+b filter=git-crypt diff=git-crypt
 
